@@ -2,8 +2,8 @@
   <div class="about-container">
     <div class="about-overlay"></div>
     <div class="about-content">
-      <h1 class="about-title">Tentang Kami</h1>
-      <p class="about-description">Web ini didedikasikan untuk memberikan pengalaman terbaik kepada pengguna. Dengan konten menarik dan inovatif, kami bertekad untuk menginspirasi dan menghibur setiap pengunjung.</p>
+      <h1 class="about-title">Tentang Saya</h1>
+      <p class="about-description">Saya kelahiran pekanbaru, tanggal 26 bulan 12 tahun 2003, saya suka bermain futsal bersama teman saya, saya suka makan nasi goreng raja minas</p>
     </div>
   </div>
 </template>

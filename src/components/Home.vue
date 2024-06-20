@@ -2,9 +2,9 @@
   <div class="home-container">
     <div class="home-overlay"></div>
     <div class="home-content">
-      <h1 class="home-title">Eksplorasi Dunia Bersama Kami</h1>
-      <p class="home-description">Temukan Keindahan Dunia dengan Berbagai Konten Menarik, Mulai dari Pencatatan Tugas Harian, Cerita Tentang Kegiatan Anda, hingga Galeri Foto yang Mengagumkan.</p>
-      <router-link to="/about" class="btn" @click="handleAboutClick">Tentang Kami</router-link>
+      <h1 class="home-title">Fadhlan Ardanel Razaq</h1>
+      <p class="home-description">223510496 - 4G</p>
+      <router-link to="/about" class="btn" @click="handleAboutClick">Tentang Saya</router-link>
     </div>
   </div>
 </template>
